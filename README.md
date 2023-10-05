@@ -1,4 +1,6 @@
 # Neos PDF Reader Backend [WIP]
+**This repo is now archived, the code has been migrated to [Resonite PDF Reader Backend](https://github.com/naborisk/resonite-pdfreader-backend)**
+
 This is a backend server designed to be used with a PDF reader I created in the [Neos Metaverse](https://neos.com/).
 The server takes a url of a PDF (or a file), converts it to PNG, and serve it to the PDF reader.
 
